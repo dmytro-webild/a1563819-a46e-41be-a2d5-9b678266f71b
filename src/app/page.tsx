@@ -105,17 +105,17 @@ export default function LandingPage() {
           useInvertedBackground={true}
           products={[
             {
-              id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "299 DH",              rating: 5,
+              id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "400 DH",              rating: 5,
               reviewCount: "240+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758343965-vg2a9pkz.jpg",              imageAlt: "Romantic rose bouquet"
             },
             {
-              id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "249 DH",              rating: 5,
+              id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "600 DH",              rating: 5,
               reviewCount: "185+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758358775-v21k8pw6.jpg",              imageAlt: "Colorful birthday flowers"
             },
             {
-              id: "3",              brand: "FLORA SHOP",              name: "Fleurs de Mariage",              price: "499 DH",              rating: 5,
+              id: "3",              brand: "FLORA SHOP",              name: "Fleurs de Mariage",              price: "DH",              rating: 5,
               reviewCount: "95+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758375689-d3bsibxx.jpg",              imageAlt: "Elegant wedding bouquet"
             },
