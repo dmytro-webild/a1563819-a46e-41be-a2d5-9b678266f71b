@@ -71,7 +71,7 @@ export default function LandingPage() {
               id: 1,
               title: "Livraison le Même Jour",              description:
                 "Commandez avant l'après-midi et recevez vos fleurs le même jour à Marrakech.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758091333-rcc1hrxs.jpg",              imageAlt: "Same-day delivery service"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758134561-7qg1bqs8.jpg",              imageAlt: "Same-day delivery service"
             },
             {
               id: 2,
@@ -105,12 +105,12 @@ export default function LandingPage() {
           useInvertedBackground={true}
           products={[
             {
-              id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "400 500DH",              rating: 5,
+              id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "400DH",              rating: 5,
               reviewCount: "240+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758343965-vg2a9pkz.jpg",              imageAlt: "Romantic rose bouquet"
             },
             {
-              id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "600 500DH",              rating: 5,
+              id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "600DH",              rating: 5,
               reviewCount: "185+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758358775-v21k8pw6.jpg",              imageAlt: "Colorful birthday flowers"
             },
