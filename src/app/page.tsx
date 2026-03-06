@@ -120,7 +120,7 @@ export default function LandingPage() {
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758375689-d3bsibxx.jpg",              imageAlt: "Elegant wedding bouquet"
             },
             {
-              id: "4",              brand: "FLORA SHOP",              name: "Boîte de Luxe",              price: "399 500DH",              rating: 5,
+              id: "4",              brand: "FLORA SHOP",              name: "Boîte de Luxe",              price: "399 DH",              rating: 5,
               reviewCount: "168+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758395012-4qyv8883.jpg",              imageAlt: "Premium luxury flower box"
             },
