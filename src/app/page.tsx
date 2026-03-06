@@ -92,7 +92,6 @@ export default function LandingPage() {
                 "http://img.b2bpic.net/free-photo/flowers-background_23-2148011026.jpg",              imageAlt: "Professional florists"
             },
           ]}
-          animationType="slide-up"
         />
       </div>
 
