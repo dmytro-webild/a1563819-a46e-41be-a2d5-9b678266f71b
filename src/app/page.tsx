@@ -71,19 +71,19 @@ export default function LandingPage() {
               id: 1,
               title: "Livraison le Même Jour",              description:
                 "Commandez avant l'après-midi et recevez vos fleurs le même jour à Marrakech.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg?_wi=1",              imageAlt: "Same-day delivery service"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758091333-rcc1hrxs.jpg",              imageAlt: "Same-day delivery service"
             },
             {
               id: 2,
               title: "Fleurs Fraîches Quotidiennes",              description:
                 "Sélection quotidienne de fleurs fraîches et de qualité supérieure directement du marché.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/flowers-background_23-2148011026.jpg?_wi=1",              imageAlt: "Fresh daily flowers"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758117330-6s6esxkb.jpg",              imageAlt: "Fresh daily flowers"
             },
             {
               id: 3,
               title: "De Confiance",              description:
                 "⭐ 4.9/5 étoiles de plus de 50 clients satisfaits. Service professionnel et courtois.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg?_wi=2",              imageAlt: "Trusted service"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758134561-7qg1bqs8.jpg",              imageAlt: "Trusted service"
             },
             {
               id: 4,
@@ -107,22 +107,22 @@ export default function LandingPage() {
             {
               id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "299 DH",              rating: 5,
               reviewCount: "240+",              imageSrc:
-                "http://img.b2bpic.net/free-photo/composition-valentine39s-day-with-gift-box-bouquet-roses_169016-25825.jpg",              imageAlt: "Romantic rose bouquet"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758343965-vg2a9pkz.jpg",              imageAlt: "Romantic rose bouquet"
             },
             {
               id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "249 DH",              rating: 5,
               reviewCount: "185+",              imageSrc:
-                "http://img.b2bpic.net/free-photo/beautiful-bunch-flowers-wooden-background-horizontal-view-from_1220-1133.jpg",              imageAlt: "Colorful birthday flowers"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758358775-v21k8pw6.jpg",              imageAlt: "Colorful birthday flowers"
             },
             {
               id: "3",              brand: "FLORA SHOP",              name: "Fleurs de Mariage",              price: "499 DH",              rating: 5,
               reviewCount: "95+",              imageSrc:
-                "http://img.b2bpic.net/free-photo/beautiful-young-woman-wedding-dress-posing-street-city_1328-3155.jpg",              imageAlt: "Elegant wedding bouquet"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758375689-d3bsibxx.jpg",              imageAlt: "Elegant wedding bouquet"
             },
             {
               id: "4",              brand: "FLORA SHOP",              name: "Boîte de Luxe",              price: "399 DH",              rating: 5,
               reviewCount: "168+",              imageSrc:
-                "http://img.b2bpic.net/free-photo/day-beauti-flowers-flower-white_1303-2012.jpg",              imageAlt: "Premium luxury flower box"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758395012-4qyv8883.jpg",              imageAlt: "Premium luxury flower box"
             },
             {
               id: "5",              brand: "FLORA SHOP",              name: "Bouquet Personnalisé",              price: "Sur Demande",              rating: 5,
