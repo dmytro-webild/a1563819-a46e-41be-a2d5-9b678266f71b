@@ -49,7 +49,7 @@ export default function LandingPage() {
               text: "💬 Commander sur WhatsApp",              href: "https://wa.me/212771849782?text=Bonjour,%20je%20souhaite%20commander%20des%20fleurs"},
           ]}
           layoutOrder="default"
-          imageSrc="http://img.b2bpic.net/free-photo/exotic-rustic-bunch-flowers-mixed-colors_114579-1969.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/exotic-rustic-bunch-flowers-mixed-colors_114579-1969.jpg?_wi=1"
           imageAlt="Beautiful luxury flowers arrangement"
           frameStyle="card"
           mediaAnimation="slide-up"
@@ -70,22 +70,22 @@ export default function LandingPage() {
               id: 1,
               title: "Livraison le Même Jour",              description:
                 "Commandez avant l'après-midi et recevez vos fleurs le même jour à Marrakech.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg",              imageAlt: "Same-day delivery service"},
+                "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg?_wi=1",              imageAlt: "Same-day delivery service"},
             {
               id: 2,
               title: "Fleurs Fraîches Quotidiennes",              description:
                 "Sélection quotidienne de fleurs fraîches et de qualité supérieure directement du marché.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/flowers-background_23-2148011026.jpg",              imageAlt: "Fresh daily flowers"},
+                "http://img.b2bpic.net/free-photo/flowers-background_23-2148011026.jpg?_wi=1",              imageAlt: "Fresh daily flowers"},
             {
               id: 3,
               title: "De Confiance",              description:
                 "⭐ 4.9/5 étoiles de plus de 50 clients satisfaits. Service professionnel et courtois.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg",              imageAlt: "Trusted service"},
+                "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg?_wi=2",              imageAlt: "Trusted service"},
             {
               id: 4,
               title: "Fleuristes Professionnels",              description:
                 "Équipe expérimentée capable de créer des arrangements personnalisés selon vos besoins.",              imageSrc:
-                "http://img.b2bpic.net/free-photo/flowers-background_23-2148011026.jpg",              imageAlt: "Professional florists"},
+                "http://img.b2bpic.net/free-photo/flowers-background_23-2148011026.jpg?_wi=2",              imageAlt: "Professional florists"},
           ]}
           mediaAnimation="slide-up"
           animationType="slide-up"
@@ -226,7 +226,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/exotic-rustic-bunch-flowers-mixed-colors_114579-1969.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/exotic-rustic-bunch-flowers-mixed-colors_114579-1969.jpg?_wi=2"
           imageAlt="Beautiful flowers background"
           logoText="FLORA SHOP"
           copyrightText="© 2025 FLORA SHOP - Fleuriste Marrakech. Tous droits réservés."
