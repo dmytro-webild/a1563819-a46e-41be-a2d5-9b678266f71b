@@ -105,22 +105,22 @@ export default function LandingPage() {
           useInvertedBackground={true}
           products={[
             {
-              id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "400 DH",              rating: 5,
+              id: "1",              brand: "FLORA SHOP",              name: "Bouquet Romantique",              price: "400 500DH",              rating: 5,
               reviewCount: "240+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758343965-vg2a9pkz.jpg",              imageAlt: "Romantic rose bouquet"
             },
             {
-              id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "600 DH",              rating: 5,
+              id: "2",              brand: "FLORA SHOP",              name: "Fleurs d'Anniversaire",              price: "600 500DH",              rating: 5,
               reviewCount: "185+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758358775-v21k8pw6.jpg",              imageAlt: "Colorful birthday flowers"
             },
             {
-              id: "3",              brand: "FLORA SHOP",              name: "Fleurs de Mariage",              price: "DH",              rating: 5,
+              id: "3",              brand: "FLORA SHOP",              name: "Fleurs de Mariage",              price: "500DH",              rating: 5,
               reviewCount: "95+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758375689-d3bsibxx.jpg",              imageAlt: "Elegant wedding bouquet"
             },
             {
-              id: "4",              brand: "FLORA SHOP",              name: "Boîte de Luxe",              price: "399 DH",              rating: 5,
+              id: "4",              brand: "FLORA SHOP",              name: "Boîte de Luxe",              price: "399 500DH",              rating: 5,
               reviewCount: "168+",              imageSrc:
                 "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AY0PLqvRp2iiyQEifEaBl51ULo/uploaded-1772758395012-4qyv8883.jpg",              imageAlt: "Premium luxury flower box"
             },
@@ -203,7 +203,7 @@ export default function LandingPage() {
             },
             {
               id: "standard",              badge: "Livraison Standard",              badgeIcon: CheckCircle,
-              price: "50 DH",              subtitle: "Livraison flexible en 24-48h",              buttons: [
+              price: "50 500DH",              subtitle: "Livraison flexible en 24-48h",              buttons: [
                 { text: "Commander Maintenant", href: "tel:+212771849782" },
                 { text: "Plus d'Infos", href: "https://wa.me/212771849782" },
               ],
